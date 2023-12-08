@@ -236,11 +236,11 @@ class HomePage extends StatelessWidget {
         top: 35,
         left: 66,
         child: Container(
-        width: 177,
-        height: 29.94636344909668,
+        width: 120,
+        height: 90,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Vapo1.png'),
+          image: AssetImage('assets/vapo.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -253,7 +253,7 @@ class HomePage extends StatelessWidget {
         height: 99.42153930664062,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Vapo21.png'),
+          image: AssetImage('assets/teste.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -305,7 +305,7 @@ class HomePage extends StatelessWidget {
         height: 50,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Home1.png'),
+          image: AssetImage('assets/Home1.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -318,7 +318,7 @@ class HomePage extends StatelessWidget {
         height: 50,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Search1.png'),
+          image: AssetImage('assets/Search1.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -331,7 +331,7 @@ class HomePage extends StatelessWidget {
         height: 50,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Cart1.png'),
+          image: AssetImage('assets/Cart1.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -344,7 +344,7 @@ class HomePage extends StatelessWidget {
         height: 50,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Profile1.png'),
+          image: AssetImage('assets/Profile1.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -397,7 +397,7 @@ class HomePage extends StatelessWidget {
         height: 82,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Elfbar3.png'),
+          image: AssetImage('assets/elfbar.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -450,7 +450,7 @@ class HomePage extends StatelessWidget {
         height: 89.25,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Ignite1.png'),
+          image: AssetImage('assets/ignite.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -503,7 +503,7 @@ class HomePage extends StatelessWidget {
         height: 36,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Image2.png'),
+          image: AssetImage('assets/zomo.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -556,7 +556,7 @@ class HomePage extends StatelessWidget {
         height: 57.66039276123047,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Podmate1.png'),
+          image: AssetImage('assets/podmate.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -609,7 +609,7 @@ class HomePage extends StatelessWidget {
         height: 82.5,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Veiik1.png'),
+          image: AssetImage('assets/veiik.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -662,7 +662,7 @@ class HomePage extends StatelessWidget {
         height: 68,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Waka21.png'),
+          image: AssetImage('assets/waka.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -715,7 +715,7 @@ class HomePage extends StatelessWidget {
         height: 85,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Lostvape1.png'),
+          image: AssetImage('assets/lostvape.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -768,7 +768,7 @@ class HomePage extends StatelessWidget {
         height: 93,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Vapsoul1.png'),
+          image: AssetImage('assets/vapesoul.png'),
           fit: BoxFit.fitWidth
       ),
   )
@@ -821,7 +821,7 @@ class HomePage extends StatelessWidget {
         height: 88.5,
         decoration: BoxDecoration(
           image : DecorationImage(
-          image: AssetImage('assets/images/Maxbar1.png'),
+          image: AssetImage('assets/maxbar.png'),
           fit: BoxFit.fitWidth
       ),
   )
